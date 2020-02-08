@@ -27,8 +27,9 @@ body{
     --color-light-black: #222;
     --color-black: #000;
 
-    --shadow: rgba(136, 132, 132, 0.247);
+    --shadow: rgba(136, 132, 132, 0.178);
 }
+
 .app {
     height: 100vh;
     width: 100%;
